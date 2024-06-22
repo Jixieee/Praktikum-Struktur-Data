@@ -54,22 +54,22 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 <p> 1). Struktur data sederhana seperti Array dan Record, dan 
 <p> 2). Struktur data majemuk, yang terdiri dari;
 <ul>
-  <li> Linier, berupa Stack, Queue, sertaList dan Multilist.</li>
-  <li> Non Linier, berupa Pohon Biner dan Graph.</li>
+  <li> Linier, berupa Linked List, Stack, dan Queue.</li>
+  <li> Non Linier, berupa Tree dan Graph.</li>
 </ul>
 
-<p> ✦ <b>Tipe Data</b>> : jenis atau macam data di dalam suatu variabel dalam bahasa pemrograman. Jenis jenis tipe data disimpan dalam bentuk kode angka baik berupa kode ASCII dan kode lainnya.</p>
+<p> <b>Tipe Data</b>> : klasifikasi yang menentukan jenis nilai yang dapat disimpan dan dioperasikan dalam sebuah program.</p>
 
-<p> ✦ <b>Objek Data</b> : mengacu pada kumpulan elemen, penyimpanan data yang unik ke dalam satu jenis objek yang utuh.</p>
+<p> <b>Objek Data</b> : representasi dari entitas dalam pemrograman yang menggabungkan data dan perilaku (fungsi atau metode) yang terkait dengan data tersebut.</p>
 
-<p> Dalam teknik pemrograman, struktur data berarti tata letak data yang berisi kolom-kolom data. Lebar kolom untuk data dapat berubah dan bervariasi. Ada kolom yang lebarnya berubah secara dinamis sesuai masukan dari pengguna, dan juga ada kolom yang lebarnya tetap. 
+<p> Dalam teknik pemrograman, struktur data memiliki arti yang sangat penting dan berfungsi sebagai dasar untuk menyusun dan mengelola data dengan cara yang efisien. Struktur data mengacu pada cara organisasi, pengelolaan, dan penyimpanan data yang memungkinkan akses dan modifikasi yang efisien.
 <hr><hr>
 
 <h2 id="js2">Job Sheet 2 - Array, Pointer, Structure</h2>
 
-<p> ✦ <b>Array</b> : suatu kumpulan nilai yang bertipe data sama. Masing-masing elemen array diakses menggunakan indeks, dan elemen aarray dapat diakses langsung (acak) .</p>
+<p> ✦ <b>Array</b> : struktur data yang terdiri dari kumpulan elemen yang disusun secara berurutan dan memiliki tipe data yang sama.</p>
 
-<p> ✦ <b>Pointer</b> : sebuah variabel yang mempunyai isi berupa sebuah alamat atau lokasi memori. Dideklarasikan menggunakan simbol asterisk (*) didepan variabel yang dideklarasikan pada tipe data tertentu. Suatu pointer tidak berisi nilai data seperti halnya variabel biasa. </p>
+<p> ✦ <b>Pointer</b> : sebuah variabel yang menyimpan alamat memori dari variabel lain atau objek dalam komputer. Dalam konteks pemrograman, pointer memungkinkan kita untuk mengakses dan memanipulasi data dengan cara yang efisien dan fleksibel, terutama ketika menangani data dalam jumlah besar atau saat membutuhkan manipulasi memori secara langsung. </p>
 <p>Tiga Perintah akses pointer :</p>
 <ul>
 <li>Cukup gunakan nama variabel untuk mendapatkan isi atau nilai dari variabel pointer .</li>
@@ -77,7 +77,7 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 <li>Tambahkan simbol asterisk (*) didepan variabel untuk mendapatkan isi atau nilai dari alamat yang terdapat pada isi pointer (value pointed by)</li>
 </ul>
 
-<p> ✦ <b>Structure (Struct)</b> : Kumpulan variable (berisi variable yang memiliki tipe-tipe yang berbeda) bernaung dalam satu nama objek yang serumpun. Sebelum membuat sebuah struct maka perlu untuk menentukan tipe-tipe data apa saja di dalamnya.</p>
+<p> ✦ <b>Structure (Struct)</b> :  konstruksi bahasa pemrograman yang digunakan untuk mengelompokkan berbagai tipe data (atau "fields") bersama-sama dalam satu unit.</p>
 <p>Terdapat dua tipe operator yang digunakan untuk mengakses sebuah struct, yaitu:</p>
 <ul>
 <li>'.' - Member operator.</li>
