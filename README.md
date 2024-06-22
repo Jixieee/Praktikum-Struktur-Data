@@ -45,11 +45,11 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 </tr>
 </table>
 
-<h1>📋Laporan Praktikum Struktur Data📋</h1>
+<h1>Penjelasan Job Sheet Praktikum Struktur Data</h1>
 
 <h2 id="js1">Job Sheet 1 - Pengenalan Struktur Data</h2>
 
-<p> ✦ <b>Struktur Data</b> : cara penyimpanan, penyusunan dan pengaturan data di dalam media penyimpanan komputer sehingga data tersebut dapat digunakan secara efisien. Struktur data biasa dipakai untuk mengelompokan beberapa  informasi yang terkait menjadi sebuah kesatuan.</p>
+<p> ✦ <b>Struktur Data</b> : cara pengaturan, penyimpanan, dan pengelolaan data dalam komputer sehingga data tersebut dapat diakses dan dimodifikasi secara efisien.</p>
 <p>Struktur Data meliputi terbagi dua yaitu;</p>
 <p> 1). Struktur data sederhana seperti Array dan Record, dan 
 <p> 2). Struktur data majemuk, yang terdiri dari;
