@@ -80,8 +80,8 @@ Dosen Pengampu      : Randi Proska Sandra, M.Sc
 <p> ~ <b>Structure (Struct)</b> :  konstruksi bahasa pemrograman yang digunakan untuk mengelompokkan berbagai tipe data (atau "fields") bersama-sama dalam satu unit.</p>
 <p>Terdapat dua tipe operator yang digunakan untuk mengakses sebuah struct, yaitu:</p>
 <ul>
-<li>'.' - Operatir titik (`.`).</li>
-<li>'->' - Operator panah (`->`).</li>
+<li>- Operatir titik (`.`).</li>
+<li>- Operator panah (`->`).</li>
 </ul>
 
 <p> - <b>ADT (Abstract Data Type) atau Tipe Data Bentukan</b> : tipe data yang dibuat oleh pengguna dalam sebuah bahasa pemrograman. Tipe data ini memungkinkan pengguna untuk menggabungkan beberapa tipe data dasar (seperti integer, float, char, dll.) menjadi satu unit yang lebih kompleks. </p>
