@@ -164,13 +164,13 @@ selama stack masih belum penuh, kemudian Isikan nilai baru ke stack berdasarkan 
 <p>Teknik Sorting yang umum digunakan : buble sort, insertion sort, selection sort, quicksort, mergesort, heapsort, dan binary sort</p>
 
 <p> - <b>Buble Sort</b> :Algoritma sederhana di mana elemen-elemen disusun dengan cara bertukar pasangan yang bersebelahan jika mereka tidak berada dalam urutan yang benar. Disebut pengurutan gelembung karena masing-masing kunci akan dengan lambat menggelembung ke posisinya yang tepat.</p>
-<p> - <b>Insertion Sort</b> : mAlgoritma di mana elemen-elemen dimasukkan satu per satu ke posisi yang tepat dalam array yang sudah diurutkan. Algoritma insertion sort seperti proses pengurutan kartu yang berada di tangan kita .</p>
+<p> - <b>Insertion Sort</b> : Algoritma di mana elemen-elemen dimasukkan satu per satu ke posisi yang tepat dalam array yang sudah diurutkan. Algoritma insertion sort seperti proses pengurutan kartu yang berada di tangan kita .</p>
 <hr><hr>
 
 <h2 id="js9">Job Sheet 9 - Selection and Merge Sort</h2>
 
 <p> ~ <b>Selection Sort </b> : Algoritma di mana elemen-elemen dipilih satu per satu dari bagian yang belum diurutkan dari array dan ditempatkan pada posisi yang tepat. </p>
-<p>Cara kerja Slecetion Sort: </p>
+<p>Cara kerja Selection Sort: </p>
 <ol type="1">
   <li>Tentukan elemen pertama dari urutan menjadi elemen terkecil masukkan sebagai elemen “minimum”.</li>
   <li>Bandingkan mnimum dengan urutan elemen kedua. Jika elemen kedua lebih kcil dibandingkan minimum, jadikan elemen kedua sebagai minimum. Bandingkan kembali minimum dengan elemen ketiga. Lakukan secara terus menerus samapai dengan elemen yang terakhir.  </li>
